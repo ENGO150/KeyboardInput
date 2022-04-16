@@ -15,7 +15,7 @@ def main():
             if i != 0:
                 text += sys.argv[i] + " "
 
-        text = used_text[0:len(text) - 1] # Remove space (last letter)
+        text = text[0:len(text) - 1] # Remove space (last letter)
 
     #Get times
     times = int(input("\nHow many times do you want to type that?\n>>> "))
