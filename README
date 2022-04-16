@@ -1,6 +1,6 @@
 KeyboardInput
 =============
 
-Simple python project for spamming. (Works only on Windows.)
+Simple (old) python project for spamming.
 
 You have to install: pyautogui
